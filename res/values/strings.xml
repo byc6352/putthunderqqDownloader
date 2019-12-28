@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">QQ埋雷专家</string>
+    <string name="accessibility_description">请启动QQ红包埋雷服务！</string>
+    <string name="service_name">QQ埋雷专家</string>
+
+</resources>

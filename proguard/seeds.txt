@@ -1,0 +1,10 @@
+com.byc.ct.ProxyApplication
+com.byc.ct.ProxyApplication: ProxyApplication()
+com.byc.qqputthunder.R$drawable: int ic_launcher
+com.byc.qqputthunder.R$string: int accessibility_description
+com.byc.qqputthunder.R$string: int app_name
+com.byc.qqputthunder.R$string: int service_name
+com.byc.qqputthunder.R$style: int AppBaseTheme
+com.byc.qqputthunder.R$style: int AppTheme
+com.byc.qqputthunder.R$xml: int lock
+com.byc.qqputthunder.R$xml: int qianghongbao_service_config
